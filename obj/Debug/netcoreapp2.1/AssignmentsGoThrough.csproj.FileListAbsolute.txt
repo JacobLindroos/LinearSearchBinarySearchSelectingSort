@@ -1,0 +1,11 @@
+C:\Users\Jacob.Lindroos\source\repos\AssignmentsGoThrough\AssignmentsGoThrough\bin\Debug\netcoreapp2.1\AssignmentsGoThrough.deps.json
+C:\Users\Jacob.Lindroos\source\repos\AssignmentsGoThrough\AssignmentsGoThrough\bin\Debug\netcoreapp2.1\AssignmentsGoThrough.runtimeconfig.json
+C:\Users\Jacob.Lindroos\source\repos\AssignmentsGoThrough\AssignmentsGoThrough\bin\Debug\netcoreapp2.1\AssignmentsGoThrough.runtimeconfig.dev.json
+C:\Users\Jacob.Lindroos\source\repos\AssignmentsGoThrough\AssignmentsGoThrough\bin\Debug\netcoreapp2.1\AssignmentsGoThrough.dll
+C:\Users\Jacob.Lindroos\source\repos\AssignmentsGoThrough\AssignmentsGoThrough\bin\Debug\netcoreapp2.1\AssignmentsGoThrough.pdb
+C:\Users\Jacob.Lindroos\source\repos\AssignmentsGoThrough\AssignmentsGoThrough\obj\Debug\netcoreapp2.1\AssignmentsGoThrough.csprojAssemblyReference.cache
+C:\Users\Jacob.Lindroos\source\repos\AssignmentsGoThrough\AssignmentsGoThrough\obj\Debug\netcoreapp2.1\AssignmentsGoThrough.csproj.CoreCompileInputs.cache
+C:\Users\Jacob.Lindroos\source\repos\AssignmentsGoThrough\AssignmentsGoThrough\obj\Debug\netcoreapp2.1\AssignmentsGoThrough.AssemblyInfoInputs.cache
+C:\Users\Jacob.Lindroos\source\repos\AssignmentsGoThrough\AssignmentsGoThrough\obj\Debug\netcoreapp2.1\AssignmentsGoThrough.AssemblyInfo.cs
+C:\Users\Jacob.Lindroos\source\repos\AssignmentsGoThrough\AssignmentsGoThrough\obj\Debug\netcoreapp2.1\AssignmentsGoThrough.dll
+C:\Users\Jacob.Lindroos\source\repos\AssignmentsGoThrough\AssignmentsGoThrough\obj\Debug\netcoreapp2.1\AssignmentsGoThrough.pdb

@@ -1,0 +1,11 @@
+C:\Users\Jacob.Lindroos\source\repos\KristerShowAss\KristerShowAss\bin\Debug\netcoreapp2.1\KristerShowAss.deps.json
+C:\Users\Jacob.Lindroos\source\repos\KristerShowAss\KristerShowAss\bin\Debug\netcoreapp2.1\KristerShowAss.runtimeconfig.json
+C:\Users\Jacob.Lindroos\source\repos\KristerShowAss\KristerShowAss\bin\Debug\netcoreapp2.1\KristerShowAss.runtimeconfig.dev.json
+C:\Users\Jacob.Lindroos\source\repos\KristerShowAss\KristerShowAss\bin\Debug\netcoreapp2.1\KristerShowAss.dll
+C:\Users\Jacob.Lindroos\source\repos\KristerShowAss\KristerShowAss\bin\Debug\netcoreapp2.1\KristerShowAss.pdb
+C:\Users\Jacob.Lindroos\source\repos\KristerShowAss\KristerShowAss\obj\Debug\netcoreapp2.1\KristerShowAss.csprojAssemblyReference.cache
+C:\Users\Jacob.Lindroos\source\repos\KristerShowAss\KristerShowAss\obj\Debug\netcoreapp2.1\KristerShowAss.csproj.CoreCompileInputs.cache
+C:\Users\Jacob.Lindroos\source\repos\KristerShowAss\KristerShowAss\obj\Debug\netcoreapp2.1\KristerShowAss.AssemblyInfoInputs.cache
+C:\Users\Jacob.Lindroos\source\repos\KristerShowAss\KristerShowAss\obj\Debug\netcoreapp2.1\KristerShowAss.AssemblyInfo.cs
+C:\Users\Jacob.Lindroos\source\repos\KristerShowAss\KristerShowAss\obj\Debug\netcoreapp2.1\KristerShowAss.dll
+C:\Users\Jacob.Lindroos\source\repos\KristerShowAss\KristerShowAss\obj\Debug\netcoreapp2.1\KristerShowAss.pdb
